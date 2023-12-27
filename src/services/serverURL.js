@@ -1,0 +1,1 @@
+export const SERVER_URL="https://mp-server-ycu3.onrender.com"
